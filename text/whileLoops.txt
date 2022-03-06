@@ -1,0 +1,2 @@
+While loops are pieces of code which will run until a specific condition becomes false. At the begininning of each loop, the code checks to see if the condition is true and, if it is, runs the code.
+In python, this is written using the script "while" followed by a condition. The functionality of a while loop means that, if the code was to read "while True", the loop would run indefinitely.

@@ -1,0 +1,2 @@
+TKinter is a library of code that comes with python. It aids in the creation of menu windows and widgets on these windows. For example, the program that you are using wouldn't be possible without the use of TKinter due to the extensive use of windows and widgets.
+To import the TKinter library in python, the "from TKinter import *" code is used. This will access the library and import everything from it.

@@ -1,0 +1,2 @@
+SQLite3 is a library of code in python which allows users to create, store and manipulate data within databases. This is very useful for program which need to use the same pieces of data, or save pieces of data, over multiple different runnings of the program. This is because, unlike variables and other data structures, the data stored in these databases will persist between runnings of the program.
+To import the SQLite3 library of code in python, simply use the code "from SQLite3 import *".

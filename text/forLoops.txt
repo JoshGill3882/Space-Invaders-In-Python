@@ -1,0 +1,2 @@
+For loops are a piece of code which runs a specified number of times. The number of times that the code will run can be defined as a variable which the loop can access the data of.
+In python, this code is written using the "for" statement, then a counter variable followed by "in range()" where the number of times the code runs is present in the brackets.

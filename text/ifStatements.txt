@@ -1,0 +1,2 @@
+If statements are an example of selection which allows a program to carry out one set of code if a condition is True, and another if the condition is False.
+In python, this is written using the "if", "elif" and "else" scripts.

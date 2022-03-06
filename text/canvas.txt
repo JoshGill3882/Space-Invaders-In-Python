@@ -1,0 +1,2 @@
+The Canvas is a widget found in the TKinter library of code. It is used to create a space on a window where Items and Images can be moved and interacted with. For example, the Game section of this program runs on a Canvas widget, with each of the graphics present acting as Canvas Images.
+In order to create a Canvas widget, you simply use the "Canvas" script and assign it to a variable.
