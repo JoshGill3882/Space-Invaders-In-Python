@@ -358,7 +358,7 @@ def LeaderboardWindow():
     # FOR each score
     for x in range(len(Scores)):
         # Display the name of the user and their score
-        LeaderboardDisplay.insert(END, (Scores[x][0] + " - " + str(Scores[x][1]) + '/n'))
+        LeaderboardDisplay.insert(END, (Scores[x][0] + " - " + str(Scores[x][1]) + '\n'))
 
 
 # Function for the running of the "Theory" Window
